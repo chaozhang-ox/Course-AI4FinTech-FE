@@ -1,4 +1,4 @@
-# 🤖 AI for FinTech and Financial Engineering
+# AI for FinTech and Financial Engineering — Spring 2027
 
 This repository contains materials for the master's-level course **AI for FinTech and Financial Engineering**.
 
